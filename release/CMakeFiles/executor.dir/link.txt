@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -Wall -Wextra -std=c++17 -Wl,--enable-auto-import CMakeFiles/executor.dir/executor.cpp.o CMakeFiles/executor.dir/utils.cpp.o CMakeFiles/executor.dir/err.cpp.o -o executor.exe -Wl,--out-implib,libexecutor.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

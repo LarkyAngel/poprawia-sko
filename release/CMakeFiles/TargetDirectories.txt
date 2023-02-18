@@ -1,0 +1,3 @@
+/home/Serafin/fixing/release/CMakeFiles/executor.dir
+/home/Serafin/fixing/release/CMakeFiles/edit_cache.dir
+/home/Serafin/fixing/release/CMakeFiles/rebuild_cache.dir
